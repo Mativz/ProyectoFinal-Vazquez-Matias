@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Marruecos.css"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Courier+Prime:wght@700&family=Montserrat:wght@300&family=Nunito:ital@1&display=swap" rel="stylesheet">
+   <title>Rabat</title>
+
+</head>
+
+<body>
+    <header>
+        <h1 class="centrarBloque">Rabat</h1>
+    </header>
+    <section class="row">
+     <div class="col-md-4 col-xl-5">  
+        <h2>Historia de Rabat</h2>
+        <p>Rabat es la capital del Reino de Marruecos y de la región Rabat-Salé-Kenitra. Está situada en la costa atlántica, en la orilla sur y en la desembocadura del río Bu Regreg, que la separa de la vecina Salé. Según el censo de 2004 tenía una población de 1 622 860 habitantes, lo que la convierte en la segunda ciudad más populosa del país tras Casablanca</p>
+        <p>El núcleo original de la ciudad fue el campamento fortificado o ribat construido por el sultán almohade Abd Al-Mumin en 1146, aprovechando una alta pared rocosa que domina la desembocadura del río. El lugar fue base para incursiones almohades en la península ibérica y fue bautizado como Ribat al-Fath, traducido como "Campamento de la Victoria" o "Fortaleza de la Victoria"</p>
+        <p>Después de la Segunda Guerra Mundial, los Estados Unidos obtuvieron presencia militar en Rabat tomando la antigua base aérea francesa. A principios de la década de 1950, la base aérea Rabat-Salé era una instalación de la Fuerza Aérea de los Estados Unidos (USAF) que albergaba a la 17. fuerza aérea y a la 5ª división aérea, que supervisó la llegada a la base del B-47 Stratojet de la SAC (Strategic Air Command). Con la desestabilización del gobierno francés en Marruecos y la independencia del país en 1956, el gobierno de Mohammed V quiso que los Estados Unidos retiraran las bases de la SAC de Marruecos, insistiendo en dicha acción después de la intervención estadounidense en el Líbano en 1958. Los Estados Unidos acordaron abandonar el país en diciembre de 1959, un proceso que se completó en 1963. El SAC sintió que las bases marroquíes eran mucho menos críticas debido a la capacidad del largo alcance de los Boeing B-52 Stratofortress, que reemplazaban a los B-47, y por la finalización de las instalaciones de la USAF en España en 1959.​Con la retirada de la USAF de Rabat-Salé, el complejo se convirtió en la instalación principal de la Real Fuerza Aérea Marroquí, conocida como la Base Aérea n.º 1, cuyo estatus aún continúa.Su alcalde en 2009 era Fathallah Oualalou, de la USFP, elegido el 23 de junio de 2009 gracias a una atípica alianza con los islamistas del PJD, los liberales del Istiqlal, los izquierdistas del PPS y los centristas del RNI.</p>
+   </div> 
+    <div class="col-md-8 col-xl-5">
+        <h2>Bandera De Rabat</h2>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Flag_of_Rabat_Sale_province.svg" alt="Bandera de Rabat">
+   </div>
+    <div class="col-md-8 col-xl-5">
+        <h3>Ubicacion de Rabat</h3>
+   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d105885.07179675857!2d-6.93966403480745!3d33.9691913924415!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xda76b871f50c5c1%3A0x7ac946ed7408076b!2sRabat%2C%20Marruecos!5e0!3m2!1ses-419!2sar!4v1693264254599!5m2!1ses-419!2sar" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+   </div>
+   
+   <h3> Imagenes sobre Rabat</h3>
+    <main class="contenedor">
+        <section id="galeria">
+            <img src="https://picsum.photos/800?random=1" alt="Imagen de lugar turistico de Rabat" class="ImagenGrande">
+            <img src="https://picsum.photos/800?random=2" alt="Imagen de lugar turistico de Rabat">
+            <img src="https://picsum.photos/800?random=3" alt="Imagen de lugar turistico de Rabat">
+            <img src="https://picsum.photos/800?random=4" alt="Imagen de lugar turistico de Rabat">
+            <img src="https://picsum.photos/800?random=5" alt="Imagen de lugar turistico de Rabat">
+            <img src="https://picsum.photos/800?random=6" alt="Imagen de lugar turistico de Rabat">
+            <img src="https://picsum.photos/800?random=7" alt="Imagen de lugar turistico de Rabat">
+            <img src="https://picsum.photos/800?random=8" alt="Imagen de lugar turistico de Rabat">
+            <img src="https://picsum.photos/800?random=9" alt="Imagen de lugar turistico de Rabat">
+        </section>
+
+    </section> 
+   
+   <h4>Para seguir informandoce de otras Ciudades de Marruecos haga click en alguno de los siguientes enlaces:</h4>  
+   <nav>
+        <ul>
+            <li><a href="casablanca.html">Casa Blanca</a></li>
+            <li><a href="marrakech.html">marrakech</a></li>
+            <li><a href="rabat.html">Rabat</a></li>
+            <li><a href="himno.html">himno</a></li>
+            <li><a href="index.html">Volver a inicio</a></li>
+        </ul>
+    </nav>
+    <footer>
+        <p>Terminos y Condicones</p>
+        <ul>
+         <li>FB </li>
+         <li>TW</li>
+         <li>x</li>
+        </ul>
+     </footer>
+</body>
+</html>

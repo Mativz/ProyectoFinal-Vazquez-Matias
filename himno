@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Marruecos.css"/>
+    <title>Himno</title>
+</head>
+<header>
+    <h1 class="centrarBloque">Himno</h1>
+</header>
+<h2>Historia sobre el Himno de Marruecos</h2>
+<p>El "Himno Jerifiano" ha sido el himno nacional de Marruecos desde la independencia del Reino en 1956.  La música fue compuesta por el jefe de música de la Guardia Real de Marruecos Léo Morgan, un capitán de origen francés, durante el reinado del Sultán Moulay Youssef, bisabuelo del actual soberano, cuando el General Residente Hubert Lyautey gobernaba Marruecos.
+
+    La letra del himno actual no fue escrita hasta 1969 por el poeta Ali Squalli Houssaini por iniciativa del rey Hassan II, quien la habría corregido, lo cual es más que probable. La letra y la música se fijaron oficialmente durante el reinado de su hijo, Mohammed VI, en 2005.
+    
+    La letra original, muy bonita, está en árabe. En ella podemos descubrir como de entrada se hace referencia a los <strong>"hombres libres"</strong>  , es decir, a los bereberes, que fueron primeros habitantes del actual Marruecos.
+    
+    También hablan de paz y, para concluir, citan los tres componentes del lema del país, a saber, <strong>"Dios, la Patria y el Rey"</strong> , que se encuentran grabados, por ejemplo, en la colina de la antigua kasbah de Agadir.</p>
+    <h3>Aca de Dejamos el Himno Subtitulado al Español para que puedas escuharlo</h3>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Mgh4hrV5llM?si=rlyWjx8eXAkZ1DTv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<body>
+    <h3>Para seguir informandoce sobre Marruecos haga click en alguno de los siguientes enlaces:</h3>
+    <nav>
+        <ul>
+            <li><a href="casablanca.html">Casa Blanca</a></li>
+            <li><a href="marrakech.html">marrakech</a></li>
+            <li><a href="rabat.html">Rabat</a></li>
+            <li><a href="himno.html">himno</a></li>
+            <li><a href="index.html">Volver a inicio</a></li>
+        </ul>
+    </nav>
+    
+    <footer>
+        <p>Terminos y Condicones</p>
+        <ul>
+         <li>FB </li>
+         <li>TW</li>
+         <li>x</li>
+        </ul>
+     </footer>
+</body>
+</html>

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Marruecos.css"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Courier+Prime:wght@700&family=Montserrat:wght@300&family=Nunito:ital@1&display=swap" rel="stylesheet">
+    <title>CasaBlanca </title>
+</head>
+<body>
+    <header>
+        <h1 class="centrarBloque">CasaBlanca</h1> 
+    </header>
+    <h2>Historia de CasaBlanca</h2>
+    <p>Casablanca es una ciudad en el oeste de Marruecos, capital de la región del Casablanca-Settat. Está situada en la costa del océano Atlántico, 80 km al sur de Rabat, la capital administrativa. Es la mayor ciudad de Marruecos, así como su principal puerto. En el censo de 2014 registró una población de 4 270 750 habitantes. Está considerada el centro económico y comercial de Marruecos, mientras que la capital política es la ciudad de Rabat.</p>
+    <p>Casablanca debe su denominación al hecho de que, antiguamente, los marinos portugueses que costeaban este lugar lo identificaban por una pequeña casa blanca situada sobre la colina de Anfa, <strong>"a casa branca"</strong> . Que el topónimo actual, Casablanca en la mayoría de idiomas, esté en español, parece deberse al período en que ambas coronas estuvieron unidas. Habitual y coloquialmente los lugareños llaman Casa a la ciudad.</p>
+    <p>Casablanca es la fuerza líder en el desarrollo económico de Marruecos, y representa el nodo clave de las negociaciones económicas para la región africana-europea, es con mucho el centro industrial de Marruecos, con más de la mitad de las fábricas, la inversión y operaciones de comercio del país. La mitad de todas las transacciones de banca comercial de Marruecos se producen en Casablanca. Sin embargo, la vena de la economía de la ciudad se encuentra en la industria de la exportación de fosfatos, para el cual es uno de los principales puertos del mundo, así como el centro administrativo de su comercio. Las cifras publicadas en 2010 por la previsión financiera y la división de investigación de Marruecos confirman que las disparidades entre las regiones se destacan cuando se trata de PIB per cápita en los ingresos, La región de Gran Casablanca es considerada como la locomotora del desarrollo de la economía marroquí. Atrae a un 32% de las unidades de producción del país y el 56% de mano de obra industrial. La región utiliza un 30% de la producción nacional de electricidad. Con 93 mil millones de dírhams, la región contribuye con el 44% de la producción industrial del Reino. 33% de las exportaciones industriales nacionales, 27 mil millones de dírhams, lo cual es comparable a 3,6 mil millones de dólares, provienen de la Gran Casablanca. 30% de la red bancaria marroquí se concentra en Casablanca. Una de las exportaciones más importantes de la ciudad es el fosfato. Otras industrias son la pesca, conservas de pescado, aserraderos, fabricación de muebles, materiales de construcción, vidrio, textiles, electrónica, alimentos procesados, cerveza, licores, bebidas no alcohólicas y cigarrillos. La actividad de los puertos marítimos de Casablanca y Mohammedia representan el 50% de los flujos comerciales internacionales de Marruecos.</p>
+    <h2>Bandera de la ciudad de CasaBlanca</h2>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Flag_of_Casablanca_province_%281976-1997%29.svg" alt="Bandera CasaBlanca">
+    <h2>Ubicacion de CasaBlanca</h2>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d106376.73625946676!2d-7.669393752869826!3d33.57226019924324!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xda7cd4778aa113b%3A0xb06c1d84f310fd3!2sCasablanca%2C%20Marruecos!5e0!3m2!1ses-419!2sar!4v1693263319463!5m2!1ses-419!2sar" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+    <h3> Imagenes sobre Casa Blanca</h3>
+    <main class="contenedor">
+        <section id="galeria">
+            <img src="https://picsum.photos/800?random=1" alt="Imagenes de lugar turistico de Casa Blanca" class="ImagenGrande">
+            <img src="https://picsum.photos/800?random=2" alt="Imagenes de lugar turistico de Casa Blanca">
+            <img src="https://picsum.photos/800?random=3" alt="Imagenes de lugar turistico de Casa Blanca">
+            <img src="https://picsum.photos/800?random=4" alt="Imagenes de lugar turistico de Casa Blanca">
+            <img src="https://picsum.photos/800?random=5" alt="Imagenes de lugar turistico de Casa Blanca">
+            <img src="https://picsum.photos/800?random=6" alt="Imagenes de lugar turistico de Casa Blanca">
+            <img src="https://picsum.photos/800?random=7" alt="Imagenes de lugar turistico de Casa Blanca">
+            <img src="https://picsum.photos/800?random=8" alt="Imagenes de lugar turistico de Casa Blanca">
+            <img src="https://picsum.photos/800?random=9" alt="Imagenes de lugar turistico de Casa Blanca">
+        </section>
+    
+    <h4>Para seguir informandoce de otras Ciudades de Marruecos haga click en alguno de los siguientes enlaces:</h>
+    <nav>
+        <ul>
+            <li><a href="casaBlanca.html">CasaBlanca</a></li>
+            <li><a href="marrakech.html">marrakech</a></li>
+            <li><a href="rabat.html">Rabat</a></li>
+            <li><a href="himno.html">himno</a></li>
+            <li><a href="index.html">Volver a inicio</a></li>
+        </ul>
+    </nav>
+    <footer>
+        <p>Terminos y Condicones</p>
+        <ul>
+         <li>FB </li>
+         <li>TW</li>
+         <li>x</li>
+        </ul>
+     </footer>
+    </main>
+</body>
+</html>

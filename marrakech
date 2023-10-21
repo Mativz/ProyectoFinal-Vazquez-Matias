@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Marruecos.css"/>
+    <title>Marrakech</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Courier+Prime:wght@700&family=Montserrat:wght@300&family=Nunito:ital@1&display=swap" rel="stylesheet">
+</head>
+<body>
+<header>
+    <h1 class="centrarBloque">Marrakech</h1>
+</header>
+<section class="row">
+    <div class="col-md-4 col-xl-5">
+    <h2>Historia de Marrakech</h2>
+    <p>Marrakech​ Marraquech o Marrakeshnota es una de las ciudades más importantes de Marruecos. Cuenta con 1 545 541 habitantes y se ubica al pie del Atlas, a 466 m s. n. m. de altura. Posee numerosos monumentos patrimonio de la Humanidad.</p>
+    <p>Es, junto a Mequinez, Fez y Rabat, una de las cuatro ciudades imperiales de Marruecos. Fue fundada en 1062 por los almorávides y fue la capital del Imperio Almorávide y Almohade. La ciudad posee el mercado tradicional (suq) más grande del país y una de las plazas más concurridas de África y del mundo, Djemaa el Fna. En la plaza se citan acróbatas, cuenta-cuentos, vendedores de agua, bailarines y músicos. Por la noche, la plaza se llena de puestos de comida, convirtiéndose en un gran restaurante al aire libre.</p>
+    <p>Marrakech fue fundada en 1062 por Youssef Ibn Tachfin, primer emir de la dinastía bereber de los almorávides. La ciudad nació como avanzadilla, primero militar y luego comercial, para garantizar a la tribu la supremacía sobre una región de fundamental importancia estratégica, puesto que por la zona pasaban las rutas de caravanas hacia el África negra a través del Sahara. Desde su base de Marrakech, los almorávides consiguieron, hasta el siglo xi, ampliar su dominio sobre todo Marruecos. Desembarcaron en España, derrotaron a los cristianos y conquistaron así gran parte de la península ibérica. Marrakech se convirtió en una gran capital amurallada con exuberantes jardines y magníficos palacios y mezquitas, de los cuales hoy por desgracia no queda nada, a excepción de la pequeña Koubba Ba’adiyn. El reino perduró hasta 1147, cuando los almohades conquistaron la ciudad después de un largo asedio y la arrasaron, para después reconstruirla. La arquitectura almohade produjo grandes obras, como la Mezquita Kutubia y la mezquita Kasbah, la monumental Bab Agnau y los jardines de la Minara. Mientras, la ciudad se convertía en un faro de la cultura islámica, atrayendo célebres pensadores y literarios de todo el mundo árabe. Pero después de un siglo de dominio, también la luz almohade se apagó. Las tropas almohades fueron derrotadas en varias ocasiones en España y a su regreso a Marrakech, en 1248, el ejército cayó en una emboscada que le tendió una tribu del desierto, capitaneada por Banu-Merin, que prosiguió su marcha victoriosa hasta Fez, donde fundó una nueva dinastía, la de los benimerines. El último sultán almohade fue definitivamente derrotado en 1276, cuando los benimerines extendieron su dominio por todo el sur de Marruecos.</p>
+</div>
+<div class="col-md-4 col-xl-5">
+    <h2>Lugares de Interes</h2>
+    <p>Como otras ciudades imperiales marroquíes, Marrakech está dividida fundamentalmente en dos partes: el centro con la gran Medina o ciudad vieja, rodeada de espectaculares bastiones de tierra roja, y, fuera de las murallas, la ville nouvelle o ciudad nueva, construida por los franceses en los años del dominio colonial y en continua expansión. La ciudad vieja y la nueva son entidades administrativas separadas, gobernadas en parte por reglas distintas: en la Medina el alcohol está prohibido y los edificios no pueden superar los tres pisos de altura. En cambio, sirve para toda Marrakech la regla según la cual el exterior de los edificios tiene que ser rojo-ocre, el color natural de la tierra local, usada tradicionalmente como material de construcción. De ahí su sobrenombre de "ciudad roja". La Medina de Marrakech está llena de antiguos palacios y mezquitas, que como es costumbre en Marruecos, no están abiertas a los no musulmanes. Su lugar más emblemático es la gran plaza de Jamaa el Fna. Al oeste de los bastiones de la Medina se extiende la ville nouvelle, con los barrios de Guéliz e Hivernage; la arteria principal es la Avenue Mohammed V, una amplia avenida arbolada que desemboca junto a una de las puertas de la ciudad vieja. En dirección este, finalmente, se encuentra el barrio residencial de la Palmeraie, una zona semidesértica llena de palmeras que en los últimos años se ha llenado de edificios.</p>
+</div>
+<div class="col-md-8">
+    <h2>Bandera de Marrakech</h2>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Flag_of_Marrakech_province.svg" alt="Bandera de Marrakech" class="img-fluid">
+</div>
+<div class="col-md-8">
+<h2>Ubicacion de Marrakech</h2>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d108703.12973863524!2d-8.090254438369493!3d31.63459498934059!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakech%2C%20Marruecos!5e0!3m2!1ses-419!2sar!4v1693267848635!5m2!1ses-419!2sar" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+<h3> Imagenes sobre Marrakeck</h3>
+    <main class="contenedor">
+        <section id="galeria">
+            <img src="https://picsum.photos/800?random=1" alt="Imagen de lugar tuistico de Marakech" class="ImagenGrande">
+            <img src="https://picsum.photos/800?random=2" alt="Imagen de lugar tuistico de Marakech">
+            <img src="https://picsum.photos/800?random=3" alt="Imagen de lugar tuistico de Marakech">
+            <img src="https://picsum.photos/800?random=4" alt="Imagen de lugar tuistico de Marakech">
+            <img src="https://picsum.photos/800?random=5" alt="Imagen de lugar tuistico de Marakech">
+            <img src="https://picsum.photos/800?random=6" alt="Imagen de lugar tuistico de Marakech">
+            <img src="https://picsum.photos/800?random=7" alt="Imagen de lugar tuistico de Marakech">
+            <img src="https://picsum.photos/800?random=8" alt="Imagen de lugar tuistico de Marakech">
+            <img src="https://picsum.photos/800?random=9" alt="Imagen de lugar tuistico de Marakech">
+        </section>
+
+<h4>Para seguir informandoce de otras Ciudades de Marruecos haga click en alguno de los siguientes enlaces:</h4>   
+<nav>
+        <ul>
+            <li><a href="casablanca.html">Casa Blanca</a></li>
+            <li><a href="marrakech.html">marrakech</a></li>
+            <li><a href="rabat.html">Rabat</a></li>
+            <li><a href="himno.html">himno</a></li>
+            <li><a href="index.html">Volver a inicio</a></li>
+        </ul>
+    </nav>
+
+</section>
+<footer>
+    <p>Terminos y Condicones</p>
+    <ul>
+     <li>FB </li>
+     <li>TW</li>
+     <li>x</li>
+    </ul>
+ </footer>
+</body>
+</html>

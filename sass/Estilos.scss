@@ -1,0 +1,56 @@
+h1{
+    font-family: 'Courier Prime', monospace;
+}
+h2,h3,h4,h5,h6{
+    color: rgb(5, 82, 89);
+    font-family: 'Montserrat', sans-serif;
+}
+
+p{
+    font-family: 'Nunito', sans-serif;
+}
+.centrarBloque{
+    background: rgb(216, 216, 216);
+    width: 50%;
+    margin: auto;
+}
+.CentrarEnLinea{
+    margin: auto;
+    display: block;
+}
+img{
+    width: 50%;
+}
+
+.contenedor{
+    display: flex;
+    max-width: 1200;
+    width: 100%;
+    margin: 0 auto;
+
+}
+#galeria{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1px;
+}
+.ImagenGrande{
+    grid-column: 1/2;
+    grid-row: 1/2;
+}
+#pie{
+    display: flex;
+    height: 50px;
+    align-items: center;
+    margin-top: 20px;
+    padding: 10px;
+}
+footer{
+    list-style: none;
+    margin-left: auto;
+    background-color: darkgrey;
+}
+nav ul{
+    list-style: none;
+    margin-left: auto;
+}
