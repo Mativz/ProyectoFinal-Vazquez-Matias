@@ -54,4 +54,9 @@ nav ul{
     list-style: none;
     margin-left: auto;
 }
-/*# sourceMappingURL=Estilos.css.map */
+a:hover{
+    color:hotpink
+}
+a{
+    transition: color 3s;
+}
