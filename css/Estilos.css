@@ -38,17 +38,9 @@ img{
 grid-column: 1/2;
 grid-row: 1/2;
 }
-#pie{
-    display: flex;
-    height: 50px;
-    align-items: center;
-    margin-top: 20px;
-    padding: 10px;
-}
-footer{
-    list-style: none;
-    margin-left: auto;
-    background-color: darkgrey;
+<footer>{
+    text-align: left;
+   list-style: none;
 }
 nav ul{
     list-style: none;
