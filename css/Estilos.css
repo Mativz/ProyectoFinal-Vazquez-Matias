@@ -52,15 +52,3 @@ a:hover{
 a{
     transition: color 3s;
 }
-
-.card {
-    border: none;
-    border-radius: 8px;
-    overflow: hidden;
-  }
-  
-  .card img {
-    height: 100%;
-    width: 100%;
-    object-fit: cover;
-  }
